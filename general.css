@@ -9,45 +9,6 @@ Default skin.
 @project.copyright@
 */
 
-html, body {
-	margin:0px;
-	min-height: 100%;
-  position: relative;
-}
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-nav,
-section {
-  display: block;
-}
-
-.corporateBlue {
-  color: #0072c0;
-}
-.selectorNotificacion{
-  width: 500px;
-  margin-left: 5px;
-  background: none;
-  border: 1px solid #D5D5D5;
-  color: #0072c0;
-}
-.classHrNoti{
-	width: 512px;
-  float: left;
-}
-audio,
-canvas,
-video {
-  display: inline-block;
-}
-
 audio:not([controls]) {
   display: none;
   height: 0;
