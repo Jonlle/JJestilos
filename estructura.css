@@ -38,3 +38,30 @@ video {
 /* ------------------------------------------------- MITAD -------------------------------------------------- */
 
 
+.color-product-admon {
+  float: left;
+  height: 60px;
+  padding: 10px;
+}
+
+.color-product-admon span {
+  padding-top: 20px;
+  float: left;
+}
+
+.color-product-mercadeo {
+  float: left;
+  height: 60px;
+  padding: 10px;
+}
+
+.color-product-mercadeo span {
+  padding-top: 20px;
+  float: left;
+}
+
+.color-product-default {
+  float: left;
+  height: 60px;
+  padding: 10px;
+}

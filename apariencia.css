@@ -13,3 +13,39 @@
 /* ------------------------------------------------- MITAD -------------------------------------------------- */
 
 
+.color-product-admon {
+  background: #50c592;
+  -webkit-border-radius: 5px 0px 0px 5px;
+  -moz-border-radius: 5px 0px 0px 5px;
+  -ms-border-radius: 5px 0px 0px 5px;
+  -o-border-radius: 5px 0px 0px 5px;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.color-product-admon span {
+  color: white;
+  font-size: 24px;
+}
+
+.color-product-mercadeo {
+  background: #994596;
+  -webkit-border-radius: 5px 0px 0px 5px;
+  -moz-border-radius: 5px 0px 0px 5px;
+  -ms-border-radius: 5px 0px 0px 5px;
+  -o-border-radius: 5px 0px 0px 5px;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.color-product-mercadeo span {
+  color: white;
+  font-size: 24px;
+}
+
+.color-product-default {
+  background: #2b569f;
+  -webkit-border-radius: 5px 0px 0px 5px;
+  -moz-border-radius: 5px 0px 0px 5px;
+  -ms-border-radius: 5px 0px 0px 5px;
+  -o-border-radius: 5px 0px 0px 5px;
+  border-radius: 5px 0px 0px 5px;
+}
